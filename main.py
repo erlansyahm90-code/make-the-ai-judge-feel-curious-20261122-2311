@@ -10,11 +10,10 @@ import os
 from pathlib import Path
 
 ENTRY = (
-    "The drawer in the lighthouse keeper's desk has been locked for forty years, "
-    "and the key hangs on a nail beside it, in plain sight. "
-    "Every keeper before you has left it alone. "
-    "Tonight the sea is flat, the lamp is lit, "
-    "and the key is still warm from someone's hand."
+    "At 2 a.m. the night librarian finds a book she never shelved, "
+    "its pages warm, its margins full of careful notes in her own handwriting. "
+    "She turns to the last page. There, in ink not yet dry, is a single line: "
+    "'Do not shelve this one yet. It is still being written by you.'"
 )
 
 
